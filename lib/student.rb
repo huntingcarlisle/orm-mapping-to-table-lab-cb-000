@@ -40,5 +40,6 @@ class Student
   end
   
   def self.CREATE
+    student = Student.new()
   
 end
